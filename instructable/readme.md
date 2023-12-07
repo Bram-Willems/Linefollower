@@ -4,3 +4,10 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
 
 ### stap 1
 bestel alle componenten uit de bill of materials  
+
+### stap 2
+Test aan de hand van de proof of concepts alle componenten. 
+Indien nodig kan je de datasheets raadplegen
+
+### stap 3
+Nu gaan we de printplaat solderen. Hiervoor kan je het Layout schema raadplegen. 
