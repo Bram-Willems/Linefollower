@@ -7,17 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller:AzDilivery Nano R3 of eender welke variatie op de arduino nano
 
 motors: 
 
-h-bridge:
+h-bridge: DRV 8833
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: 18650
 
-wireless communication:
+wireless communication: HC-O5
 
 distance sensor - motors:
 
